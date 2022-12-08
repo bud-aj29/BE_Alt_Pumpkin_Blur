@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Alternate pumpkin blur",
+        "name": "Alt Pumpkin Blur",
+        "uuid": "3807af83-6eac-4479-b60d-ec9121bf145d",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 220 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "9785cb04-f5bd-45b9-86a7-be91fba78e90",
+            "version": [0, 0, 1]
+        }
+    ]
+}
